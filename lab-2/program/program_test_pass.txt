@@ -1,3 +1,11 @@
 5 + 3.0
 10 * 2.5
 4.5 + 2
+"hello" + "world"
+5 == 5.0
+3 < 7.5
+true && false
+!true
+10 % 3
+"test" == "test"
+false || true

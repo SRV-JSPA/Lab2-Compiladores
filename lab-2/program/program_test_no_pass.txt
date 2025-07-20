@@ -1,4 +1,9 @@
 8 / "2.0"
-(3 + 2) * "7"
-9.0 - true
 "hello" + 3
+9.0 - true
+5 && 7
+!"not a boolean"
+3.14 % 2
+"text" > 10
+true + false
+"string" * 5
